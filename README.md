@@ -5,5 +5,7 @@ it's a bundle of html, css and python, prepared using the Django framework.
 It contains a couple of page: a welcome, sign up, register and question asking pages.
 
 it's integrated with openai.
+It takes its origin from the financeanswer project https://github.com/sdamhub/financeanswers
+
 It's already hosted and running on a hosting platform with some modifications made before hosting.
 I will be making some additions soon.
